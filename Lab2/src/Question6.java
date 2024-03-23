@@ -4,7 +4,7 @@ import java.io.FileReader;
 import java.io.FileWriter; 
 import java.io.IOException; 
  
-public class FileReadWrite { 
+public class Question6 { 
     public static void main(String[] args) { 
         String inputFile = "input.txt"; 
         String outputFile = "output.txt"; 
